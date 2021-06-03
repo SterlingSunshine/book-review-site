@@ -1,0 +1,21 @@
+body {
+  background-color: #322f3f;
+}
+
+h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 10pt;
+  text-align: center;
+  color: #8f0000;
+  background-color: #faf0e6;
+}
+
+h2 {
+  font-family: monospace;
+  color: #d3d3d3;
+}
+
+p {
+  color: #d3d3d3;
+  line-height: 125%;
+}
